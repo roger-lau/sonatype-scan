@@ -11,3 +11,7 @@ Requirement:
 3. Run `nuget restore packages.config -OutputDirectory packages`
 4. A new folder `packages` is created with all of the downloaded packages
 5. Run `java -jar nexus-iq-cli.jar -i [application id] -s [server URL] -a [username:password] packages`
+
+```
+Refer to email for [application id]
+```
