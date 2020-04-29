@@ -1,7 +1,6 @@
 # Sonatype Nexus Lifecycle Scanning
 
-## .Net Framework
-### Using CLI in Windows machine
+### CLI Scanning for .Net Framework project in Windows machine
 ```
 Requirement:
 1. Must use Nuget as package manager in the project
