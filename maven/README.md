@@ -1,6 +1,6 @@
 # Sonatype Nexus Lifecycle Scanning
 
-### CLI Scanning for .Net Framework project in Windows machine
+### CLI Scanning for Maven project
 ```
 Requirement:
 1. Must use Maven as package manager in the project
