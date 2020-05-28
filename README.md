@@ -7,7 +7,7 @@ Requirement:
 2. Have Java JDK 1.8 installed
 ```
 1. Download this git repository
-2. Copy the `packages.config` of your project into this folder
+2. Copy the `packages.config` or `.csproj` of your project into this folder
 3. Run `nuget restore packages.config -OutputDirectory packages`
 4. A new folder `packages` is created with all of the downloaded packages
 5. Run `java -jar nexus-iq-cli.jar -i [application id] -s [server URL] -a [username:password] packages`
