@@ -7,7 +7,7 @@ Requirement:
 2. Must have Maven build tool installed
 2. Must have Java JDK 1.8 installed
 ```
-1. Download this git repository
+1. [Download this git repository](https://github.com/roger-lau/sonatype-scan/archive/master.zip)
 2. Copy the `pom.xml` of your project into this folder
 3. Run `mvn install`
 5. Run `java -jar ../nexus-iq-cli.jar -i [application id] -s [server URL] -a [username:password] .`
