@@ -1,12 +1,12 @@
 # Sonatype Nexus Lifecycle — Maven Project
 
-### Download Maven project packages
 ```
 Requirement:
 1. Must use Maven as package manager in the project
 2. Must have Maven build tool installed
 3. Must have Java JDK 1.8 installed (for CLI only)
 ```
+### Download Maven project packages
 1. [Download this git repository](https://github.com/roger-lau/sonatype-scan/archive/master.zip)
 2. Copy the `pom.xml` of your project into this folder. Replace the sample file.
 3. Run `mvn install`

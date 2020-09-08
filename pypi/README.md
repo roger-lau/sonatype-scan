@@ -1,12 +1,13 @@
 # Sonatype Nexus Lifecycle - PyPi Project
 
-### Download PyPi project packages
+
 ```
 Requirement:
 1. Must use PyPi as package manager in the project
 2. Must have PIP build tool installed
 2. Must have Java JDK 1.8 installed (for CLI scan only)
 ```
+### Download PyPi project packages
 1. [Download this git repository](https://github.com/roger-lau/sonatype-scan/archive/master.zip)
 2. Copy the `requirements.txt` of your project into this folder. Replace the sample file.
 3. In CLI, navigate to `packages` folder
