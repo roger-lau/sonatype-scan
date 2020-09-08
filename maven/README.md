@@ -16,7 +16,6 @@ Requirement:
 
 #### Method 1: CLI
 1. Run `java -jar ../nexus-iq-cli.jar -i [application id] -s [server URL] -a [username:password] .`
-
 2. Open the report link to view the report
 
 
