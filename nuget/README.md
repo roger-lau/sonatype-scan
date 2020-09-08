@@ -7,7 +7,7 @@ Requirement:
 2. Must have Java JDK 1.8 installed (for CLI scan only)
 ```
 1. [Download this git repository](https://github.com/roger-lau/sonatype-scan/archive/master.zip)
-2. Copy the `packages.config` or `.csproj` of your project into this folder
+2. Copy the `packages.config` or `.csproj` of your project into this folder. Replace the sample file.
 3. In CLI, run `nuget.exe restore [packages.config | filename.csproj] -OutputDirectory packages`
 4. A new folder `packages` is created with all of the downloaded packages
 

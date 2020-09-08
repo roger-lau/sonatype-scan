@@ -8,7 +8,7 @@ Requirement:
 2. Must have Java JDK 1.8 installed (for CLI scan only)
 ```
 1. [Download this git repository](https://github.com/roger-lau/sonatype-scan/archive/master.zip)
-2. Copy the `requirements.txt` of your project into this folder
+2. Copy the `requirements.txt` of your project into this folder. Replace the sample file.
 3. In CLI, navigate to `packages` folder
 3. Run `pip download -r ../requirements.txt`
 4. Packages are downloaded into `packages` folder

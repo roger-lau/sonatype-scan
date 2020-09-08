@@ -8,7 +8,7 @@ Requirement:
 3. Must have Java JDK 1.8 installed (for CLI only)
 ```
 1. [Download this git repository](https://github.com/roger-lau/sonatype-scan/archive/master.zip)
-2. Copy the `pom.xml` of your project into this folder
+2. Copy the `pom.xml` of your project into this folder. Replace the sample file.
 3. Run `mvn install`
 
 
