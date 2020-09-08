@@ -11,7 +11,7 @@ Requirement:
 3. In CLI, run `nuget.exe restore [packages.config | filename.csproj] -OutputDirectory packages`
 4. A new folder `packages` is created with all of the downloaded packages
 
-###### Note:`nuget.exe` is bundled in this git repository. You can also download it from https://dist.nuget.org/win-x86-commandline/latest/nuget.exe
+###### Note: `nuget.exe` is bundled in this git repository. You can also download it from https://dist.nuget.org/win-x86-commandline/latest/nuget.exe
 
 
 
