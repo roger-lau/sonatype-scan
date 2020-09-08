@@ -1,6 +1,6 @@
 # Sonatype Nexus Lifecycle - PyPi Project
 
-### Download .Net Framework project packages
+### Download PyPi project packages
 ```
 Requirement:
 1. Must use PyPi as package manager in the project
