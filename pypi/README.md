@@ -1,16 +1,17 @@
-# Sonatype Nexus Lifecycle — Maven Project
+# Sonatype Nexus Lifecycle - PyPi Project
 
-### Download Maven project packages
+### Download .Net Framework project packages
 ```
 Requirement:
-1. Must use Maven as package manager in the project
-2. Must have Maven build tool installed
-3. Must have Java JDK 1.8 installed (for CLI only)
+1. Must use PyPi as package manager in the project
+2. Must have PIP build tool installed
+2. Must have Java JDK 1.8 installed (for CLI scan only)
 ```
 1. [Download this git repository](https://github.com/roger-lau/sonatype-scan/archive/master.zip)
-2. Copy the `pom.xml` of your project into this folder
-3. Run `mvn install`
-5. Run `java -jar ../nexus-iq-cli.jar -i [application id] -s [server URL] -a [username:password] .`
+2. Copy the `requirements.txt` of your project into this folder
+3. In CLI, navigate to `packages` folder
+3. Run `pip download -r ../requirements.txt`
+4. Packages are downloaded into `packages` folder
 
 
 ### Perform the scan
@@ -22,8 +23,10 @@ Run `java -jar ../nexus-iq-cli.jar -i [application id] -s [server URL] -a [usern
 
 
 ##### Method 2: Upload from UI
-1. Compress this folder as a zip
+1. Compress `packages` folder as a zip
 2. In Nexus IQ Server, navigate to `Orgs & Policies`
 3. Choose the application from the left navigation menu
 4. Navigate to `Actions` dropdown list and choose `Evaluate Binary`
 5. Upload the zip file
+
+

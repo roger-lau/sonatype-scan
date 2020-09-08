@@ -1,17 +1,16 @@
-# Sonatype Nexus Lifecycle - .Net Framework project
+# Sonatype Nexus Lifecycle — .Net Framework Project in Windows
 
 ### Download .Net Framework project packages
-
-
 ```
 Requirement:
 1. Must use Nuget as package manager in the project
-2. Have Java JDK 1.8 installed (for CLI scan only)
+2. Must have Java JDK 1.8 installed (for CLI scan only)
 ```
 1. [Download this git repository](https://github.com/roger-lau/sonatype-scan/archive/master.zip)
 2. Copy the `packages.config` or `.csproj` of your project into this folder
 3. In CLI, run `nuget.exe restore [packages.config | filename.csproj] -OutputDirectory packages`
 4. A new folder `packages` is created with all of the downloaded packages
+
 
 ### Perform the scan
 
