@@ -31,3 +31,5 @@ Requirement:
 5. Upload the zip file
 
 
+### References
+[Link to Sonatype Guide for Nuget application analysis](https://help.sonatype.com/iqserver/analysis/nuget-application-analysis)

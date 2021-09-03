@@ -11,4 +11,4 @@ Requirement:
 5. Run `java -jar ../nexus-iq-cli.jar -i [application id] -s [server URL] -a [username:password] Podfile.lock`
 
 ### References
-[Link to Sonatype Guide for Cocoapods analysis](https://help.sonatype.com/iqserver/analysis/objective-c-application-analysis)
+[Link to Sonatype Guide for Cocoapods application analysis](https://help.sonatype.com/iqserver/analysis/objective-c-application-analysis)
