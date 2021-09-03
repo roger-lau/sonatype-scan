@@ -30,3 +30,5 @@ Requirement:
 5. Upload the zip file
 
 
+### References
+[Link to Sonatype Guide for Python application analysis](https://help.sonatype.com/iqserver/analysis/python-application-analysis)
