@@ -5,6 +5,7 @@
 * [Maven](https://github.com/roger-lau/sonatype-scan/tree/master/maven)
 * [Nuget](https://github.com/roger-lau/sonatype-scan/tree/master/nuget)
 * [Pypi](https://github.com/roger-lau/sonatype-scan/tree/master/pypi)
+* [NPM](https://github.com/roger-lau/sonatype-scan/tree/master/npm)
 
 ### References
 * Complete guide to use CLI from [Sonatype Help Page](https://help.sonatype.com/integrations/nexus-iq-cli)
