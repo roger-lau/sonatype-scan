@@ -7,4 +7,5 @@
 * [Pypi](https://github.com/roger-lau/sonatype-scan/tree/master/pypi)
 
 ### References
-* [Guide to use CLI from Sonatype Help Page](https://help.sonatype.com/integrations/nexus-iq-cli)
+* Guide to use CLI from [Sonatype Help Page](https://help.sonatype.com/integrations/nexus-iq-cli)
+* To use CLI without JDK, download the [native CLI here](https://help.sonatype.com/iqserver/product-information/download-and-compatibility#DownloadandCompatibility-CLI).
