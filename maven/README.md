@@ -26,4 +26,6 @@ Requirement:
 4. Navigate to `Actions` dropdown list and choose `Evaluate Binary`
 5. Upload the zip file
 
+### References
+
 [Link to Sonatype Guide for Java application analysis](https://help.sonatype.com/iqserver/analysis/java-application-analysis)

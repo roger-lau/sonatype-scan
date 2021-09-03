@@ -6,5 +6,5 @@
 * [Nuget](https://github.com/roger-lau/sonatype-scan/tree/master/nuget)
 * [Pypi](https://github.com/roger-lau/sonatype-scan/tree/master/pypi)
 
-### Links
+### References
 * [Guide to use CLI from Sonatype Help Page](https://help.sonatype.com/integrations/nexus-iq-cli)
